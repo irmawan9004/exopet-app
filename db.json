@@ -13,6 +13,7 @@
     },
     {
       "id": 2,
+      "image" : "https://www.everythingreptiles.com/wp-content/uploads/2020/03/Bearded-Dragon.jpg",
       "scientific_name": "Pogona vitticeps",
       "common_name": "Bearded Dragon",
       "family": "Agamidae",
@@ -23,6 +24,7 @@
     },
     {
       "id": 3,
+      "image" : "https://rimbakita.com/wp-content/uploads/2019/06/iguana.jpg",
       "scientific_name": "Iguana iguana",
       "common_name": "Iguana",
       "family": "Iguanidae",
@@ -33,6 +35,7 @@
     },
     {
       "id": 4,
+      "image" : "https://cdn.shopify.com/s/files/1/0109/0052/products/image_c5f721a1-54d9-4d89-bd8e-a1f6edfb700c.heic?v=1657203831",
       "scientific_name": "Python regius",
       "common_name": "Ball Python",
       "family": "Pythonidae",
@@ -43,6 +46,7 @@
     },
     {
       "id": 5,
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Red_eyed_tree_frog_edit2.jpg/1024px-Red_eyed_tree_frog_edit2.jpg",
       "scientific_name": "Agalychnis callidryas",
       "common_name": "Red-eye Tree Frog",
       "family": "Hylidae",
@@ -53,7 +57,7 @@
     },
     {
       "id": 6,
-      "scientific_name": "Ambystoma tigrinum",
+      "image" : "https://www.nwf.org/-/media/NEW-WEBSITE/Shared-Folder/Wildlife/Amphibians/amphibian_tiger-salamander_600x300.ashx",
       "common_name": "Tiger Salamander",
       "family": "Ambystomatidae",
       "kingdom": "Animalia",
